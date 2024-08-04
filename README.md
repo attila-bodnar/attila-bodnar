@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @attila-bodnar
 - Interested in AI/ML
-- Currently working towards AWS Certified Machine Learning - Specialty
+- Recently achieved AWS Certified Machine Learning - Specialty certification
 - www.linkedin.com/in/bodattila
 
 <!---
